@@ -1,0 +1,7 @@
+{
+  "testPathIgnorePatterns": ["cypress", "node_modules", ".next"],
+  "transform": {
+    "^.+\\.tsx?$": "<rootDir>/node_modules/babel-jest"
+  },
+  "transformIgnorePatterns": ["node_modules"]
+}

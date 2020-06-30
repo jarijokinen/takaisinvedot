@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="sc-AxjAm cyrofx"
+  >
+    <span
+      class="sc-AxirZ feYKcc"
+    >
+      Palvelun toteutus: Jari Jokinen.
+    </span>
+     
+    <span
+      class="sc-AxirZ feYKcc"
+    >
+      Lähdekoodi löytyy 
+      <a
+        class="sc-AxiKw bOTXee"
+        href="https://github.com/jarijokinen/takaisinvedot"
+      >
+        GitHubista
+      </a>
+      .
+    </span>
+  </header>
+</DocumentFragment>
+`;

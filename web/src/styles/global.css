@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+* {
+  border: 0;
+  box-sizing: border-box;
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #303f9f;
+  color: #fff;
+  font-family: Prompt, Arial, 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+a {
+  color: #fff;
+}

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="sc-AxjAm iLAjRt"
+  >
+    <h1
+      class="sc-AxirZ cniLYN"
+    >
+      Takaisinvedot.fi
+    </h1>
+    <div
+      class="sc-AxiKw lhOBPC"
+    >
+      Viallisten tuotteiden ja elintarvikkeiden takaisinvedot koottuna yhdelle sivulle
+    </div>
+  </header>
+</DocumentFragment>
+`;

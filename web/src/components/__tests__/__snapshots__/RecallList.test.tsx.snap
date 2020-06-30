@@ -1,0 +1,1010 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecallList renders correctly 1`] = `
+<DocumentFragment>
+  <ul
+    class="sc-AxjAm bfZAWj"
+  >
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-1"
+      >
+        Example Title 1
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 1
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-2"
+      >
+        Example Title 2
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 2
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-3"
+      >
+        Example Title 3
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 3
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-4"
+      >
+        Example Title 4
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 4
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-5"
+      >
+        Example Title 5
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 5
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-6"
+      >
+        Example Title 6
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 6
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-7"
+      >
+        Example Title 7
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 7
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-8"
+      >
+        Example Title 8
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 8
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-9"
+      >
+        Example Title 9
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 9
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-10"
+      >
+        Example Title 10
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 10
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-11"
+      >
+        Example Title 11
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 11
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-12"
+      >
+        Example Title 12
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 12
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-13"
+      >
+        Example Title 13
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 13
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-14"
+      >
+        Example Title 14
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 14
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-15"
+      >
+        Example Title 15
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 15
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-16"
+      >
+        Example Title 16
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 16
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-17"
+      >
+        Example Title 17
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 17
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-18"
+      >
+        Example Title 18
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 18
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-19"
+      >
+        Example Title 19
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 19
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-20"
+      >
+        Example Title 20
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 20
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-21"
+      >
+        Example Title 21
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 21
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-22"
+      >
+        Example Title 22
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 22
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-23"
+      >
+        Example Title 23
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 23
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-24"
+      >
+        Example Title 24
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 24
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-25"
+      >
+        Example Title 25
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 25
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-26"
+      >
+        Example Title 26
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 26
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-27"
+      >
+        Example Title 27
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 27
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-28"
+      >
+        Example Title 28
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 28
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-29"
+      >
+        Example Title 29
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 29
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-30"
+      >
+        Example Title 30
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 30
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-31"
+      >
+        Example Title 31
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 31
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-32"
+      >
+        Example Title 32
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 32
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-33"
+      >
+        Example Title 33
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 33
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-34"
+      >
+        Example Title 34
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 34
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-35"
+      >
+        Example Title 35
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 35
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-36"
+      >
+        Example Title 36
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 36
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-37"
+      >
+        Example Title 37
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 37
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-38"
+      >
+        Example Title 38
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 38
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-39"
+      >
+        Example Title 39
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 39
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-40"
+      >
+        Example Title 40
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 40
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-41"
+      >
+        Example Title 41
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 41
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-42"
+      >
+        Example Title 42
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 42
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-43"
+      >
+        Example Title 43
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 43
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-44"
+      >
+        Example Title 44
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 44
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-45"
+      >
+        Example Title 45
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 45
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-46"
+      >
+        Example Title 46
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 46
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-47"
+      >
+        Example Title 47
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 47
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-48"
+      >
+        Example Title 48
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 48
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-49"
+      >
+        Example Title 49
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 49
+      </div>
+    </li>
+    <li
+      class="sc-AxirZ dNueBK"
+    >
+      <div
+        class="sc-AxhCb vyKjO"
+      >
+        20.6.2020
+      </div>
+      <a
+        class="sc-AxiKw exSGiu"
+        href="http://example.com/example-path-50"
+      >
+        Example Title 50
+      </a>
+      <div
+        class="sc-AxhUy cYQArD"
+      >
+        Example Source 50
+      </div>
+    </li>
+  </ul>
+</DocumentFragment>
+`;
