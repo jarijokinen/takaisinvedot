@@ -1,11 +1,10 @@
 import { Helmet } from 'react-helmet';
-import * as Styled from './index.styled';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import RecallList from '../components/RecallList';
 
 const Home: React.FC = () => (
-  <Styled.Layout>
+  <div className="layout">
     <Helmet>
       <html lang="fi" />
       <title>Takaisinvedot.fi</title>
@@ -13,7 +12,7 @@ const Home: React.FC = () => (
     <Header />
     <RecallList />
     <Footer />
-  </Styled.Layout>
+  </div>
 );
 
 export default Home;
