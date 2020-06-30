@@ -1,10 +1,10 @@
 # takaisinvedot
 
-Web and mobile apps that monitor product recalls in Finland.
+Web and mobile apps for monitoring product recalls in Finland.
 
-**web/** - The web UI made with Next.js / React
-**mobile/** - The mobile app made with React Native
-**backend/** - Serverless Node.js functions to run in Firebase
+* **web/** - The web UI made with Next.js / React
+* **mobile/** - The mobile app made with React Native
+* **backend/** - Serverless Node.js functions to run in Firebase
 
 These public sources are used:
 
