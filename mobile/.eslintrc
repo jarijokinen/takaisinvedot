@@ -1,0 +1,76 @@
+{
+  "env": {
+    "browser": true,
+    "es2020": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:import/typescript",
+    "plugin:jest/recommended",
+    "plugin:jest/style",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "plugin:testing-library/react",
+    "plugin:testing-library/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "airbnb",
+    "airbnb/hooks",
+    "@react-native-community",
+    "prettier/@typescript-eslint",
+    "prettier/react"
+  ],
+  "globals": {
+    "React": "writable"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "plugins": [
+    "import",
+    "jest",
+    "react",
+    "react-hooks",
+    "prettier",
+    "testing-library",
+    "@typescript-eslint"
+  ],
+  "root": true,
+  "rules": {
+    "comma-dangle": "off",
+    "implicit-arrow-linebreak": "off",
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+    "import/prefer-default-export": "off",
+    "no-plusplus": "off",
+    "prefer-template": "off",
+    "react/jsx-filename-extension": [2, { "extensions": [".ts", ".tsx"] }],
+    "react/prop-types": "off",
+    "react/react-in-jsx-scope": "off",
+    "testing-library/await-async-query": "error",
+    "testing-library/no-await-sync-query": "error",
+    "testing-library/no-debug": "warn"
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".ts", ".tsx"]
+      }
+    },
+    "react": {
+      "version": "detect"
+    }
+  }
+}
