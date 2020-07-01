@@ -7,9 +7,9 @@ import AsyncStorage from '@react-native-community/async-storage';
 import messaging from '@react-native-firebase/messaging';
 
 const SettingsScreen: React.FC = () => {
-  const [enableNotifications, setEnableNotifications] = useState<boolean>(
-    false
-  );
+  const [enableNotifications, setEnableNotifications] = useState<
+    boolean | null
+  >(null);
 
   useEffect(() => {
     loadEnableNotifications();
