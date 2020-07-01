@@ -1,4 +1,5 @@
 firebase-config.js
+gradle.properties
 node_modules
 coverage
 .next
